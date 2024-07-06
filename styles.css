@@ -7,7 +7,7 @@ body {
     background-color: #f4f4f4;
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Garante que a altura mínima do corpo seja 100% da viewport */
+    min-height: 100vh; 
 }
 
 .container {
@@ -19,7 +19,7 @@ body {
 }
 
 .logo-img {
-    width: 10%; /* Ajuste o tamanho da imagem conforme necessário */
+    width: 10%; 
     margin-right: 50%;
     
 }
@@ -55,7 +55,7 @@ nav ul li a {
 }
 
 main {
-    flex: 1; /* Ocupa todo o espaço restante entre o header e o footer */
+    flex: 1; 
     padding: 20px 0;
 }
 
