@@ -1,0 +1,59 @@
+{"products" : [
+    {
+        "id": 1,
+        "name": "coxinhas fritas",
+        "description": "coxinhas de frango fritas.",
+        "price": "R$ 100,00",
+        "image": "images/coxinha frita.jpg"
+    },
+    {
+        "id": 2,
+        "name": "assinhas fritas",
+        "description": "assinhas de frango fritas.",
+        "price": "R$ 150,00",
+        "image": "images/assinhas fritas.Webp"
+    },
+    {
+        "id": 3,
+        "name": "filé frito",
+        "description": "peito de frango frito.",
+        "price": "R$ 200,00",
+        "image": "images/filé frito.jpg"
+    },
+    {
+        "id": 4,
+        "name": "coraçãozinho de frango",
+        "description": "coração de frango tamanho familia.",
+        "price": "R$ 250,00",
+        "image": "images/coracao.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Produto 5",
+        "description": "Descrição do produto 5.",
+        "price": "R$ 300,00",
+        "image": "images/produto5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Produto 6",
+        "description": "Descrição do produto 6.",
+        "price": "R$ 350,00",
+        "image": "images/produto6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Produto 7",
+        "description": "Descrição do produto 7.",
+        "price": "R$ 400,00",
+        "image": "images/produto7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Produto 8",
+        "description": "Descrição do produto 8.",
+        "price": "R$ 450,00",
+        "image": "images/produto8.jpg"
+    }
+    ]
+    }
